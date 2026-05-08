@@ -84,7 +84,7 @@ Do NOT include explanations, extra text, or numbering.
                     for idss in chat_listt:
                         await bot.send_message(chat_id=idss , text="🌻 #upsc #ssc #ssccgl #uppcs daily MCQs \nGk, GS, Current Affairs Quiz, E-books, PDF & All the Important One Liner Question for #UPSC #CDS Railways SSC UPPCS #SSCGD #SSCCGL #SSC #SSCMTS Etc. \nCompetitive Exams....")
                         print("Text printed successfully")
-                    break
+                    
                 
             else:
                 print(f"Failed to extract variables for MCQ {i+1}. Raw response:\n{text}")
