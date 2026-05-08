@@ -92,9 +92,9 @@ Do NOT include explanations, extra text, or numbering.
         except Exception as e:
             print(f"Error posting MCQ {i+1}: {e}")
 
-        print("pause : 600s")
+        print("pause : 1200s")
 
-        await asyncio.sleep(600)
+        await asyncio.sleep(1200)
 
 
 if __name__ == "__main__":
