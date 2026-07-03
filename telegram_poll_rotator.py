@@ -7,7 +7,9 @@ import requests
 # CONFIG
 # =====================================================
 
-BOT_TOKEN = "8360979841:AAEPVXSWlyOH21wVfF-c-_mgICiBzi_nG-A"
+import os
+
+BOT_TOKEN = os.environ["BOT_TOKEN"]
 
 CHANNELS = [
     "@upsclog",
