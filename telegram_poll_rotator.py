@@ -16,7 +16,7 @@ CHANNELS = [
     "@upsc_daily_pyq"
 ]
 
-QUESTIONS_FILE = "mcq_questions.txt"
+QUESTIONS_FILE = "questions.txt"
 
 POLLS_PER_RUN = 5
 
