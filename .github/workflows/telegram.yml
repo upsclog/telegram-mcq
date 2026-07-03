@@ -5,7 +5,7 @@ on:
 
   schedule:
     # Every day at 12:25 PM IST
-    - cron: "5 7 * * *"
+    - cron: "20 7 * * *"
 
 jobs:
   post-mcqs:
