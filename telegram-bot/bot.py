@@ -1,101 +1,160 @@
-import random
-import re
-import os 
-import asyncio
-import time
-from google import genai
-from telegram import Bot, Poll
-from dotenv import load_dotenv
-import os
+import json
+from pathlib import Path
 
-load_dotenv()
+import requests
 
-
-
-# ====== Google GenAI client ======
-google_token = os.getenv("GOOGLE_TOKEN")
-
-
-# ====== Telegram bot setup ======
-
+# =====================================================
+# CONFIG
+# =====================================================
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-bot = Bot(token=BOT_TOKEN)
 
-# ====== Read topics from file ======
-file_path = "topics.txt"
-with open(file_path, "r", encoding="utf-8") as f:
-    topics = [t.strip() for t in f.readlines() if t.strip()]
+CHANNELS = [
+    "@upsclog",
+    "@upsc_daily_pyq"
+]
 
-chat_id_mcq = "@ssc_cgl_g"
-chat_id_monk = "@visioniasx"
+QUESTIONS_FILE = "mcq_questions.txt"
 
-chat_listt = [chat_id_mcq ,chat_id_monk]
+POLLS_PER_RUN = 5
 
-# ====== Main loop ======
-async def main():
-    client = genai.Client(api_key=google_token)
-    i = 0
-    while True:
-        try:
-            topic = random.choice(topics)
-            prompt = f"""
-Generate a SSC themed, strictly factual and easy exam type multiple-choice question on the topic "{topic}". 
-The question must be based on direct general knowledge, no reasoning and analysis.
+# =====================================================
 
-Output ONLY the following Python variables, strictly nothing else:
 
-question = "..."
-options = ["Option1", "Option2", "Option3", "Option4"]
-correct_answer = "..."
+INTRO = """📚🔥 <b>Daily NCERT & GS MCQ Quiz</b> 🔥📚
 
-The correct_answer must strictly match exactly one of the options. 
-Do NOT include explanations, extra text, or numbering. 
+🎯 Welcome to today's practice session!
+
+Boost your preparation with carefully selected MCQs covering <b>NCERTs, Geography, History, Polity, Economy, Environment, Science & Current Affairs.</b>
+
+🏆 Perfect for aspirants preparing for <b>UPSC CSE, SSC, CDS, CAPF, State PSCs, Railways, Banking</b> and other competitive examinations.
+
+🚀 Best of Luck!!
+👇 Let's Begin 👇
 """
 
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt
-            )
 
-            text = response.text
-            question_match = re.search(r'question\s*=\s*"(.*?)"', text, re.DOTALL)
-            options_match = re.search(r'options\s*=\s*\[(.*?)\]', text, re.DOTALL)
-            answer_match = re.search(r'correct_answer\s*=\s*"(.*?)"', text, re.DOTALL)
+OUTRO = """📖━━━━━━━━📖
 
-            if question_match and options_match and answer_match:
-                question = question_match.group(1).strip()
-                options = [opt.strip().strip('"') for opt in options_match.group(1).split(',')]
-                correct_answer = answer_match.group(1).strip()
+🌟 <b>Remember...</b>
+
+These questions are carefully sourced from <b>NCERTs</b> and cover the fundamental concepts that form the <b>bedrock of UPSC Prelims</b> and many other competitive examinations.
+
+📚 Revise regularly.
+🧠 Learn from your mistakes.
+🚀 Stay consistent.
+
+<b>Success isn't about studying more—it's about revising better.</b>
+
+💙 See you in the next quiz!
+
+"""
+
+def send_message(channel, text):
+    """Send introductory message."""
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+
+    payload = {
+        "chat_id": channel,
+        "text": text,
+        "parse_mode": "HTML"
+    }
+
+    r = requests.post(url, data=payload)
+
+    if r.ok:
+        print(f"[{channel}] Intro message sent.")
+        return True
+    else:
+        print(f"[{channel}] Intro failed.")
+        print(r.text)
+        return False
 
 
-                for chat_id in chat_listt:
-                    await bot.send_poll(
-                        chat_id=chat_id,
-                        question=question,
-                        options=options,
-                        type=Poll.QUIZ,
-                        correct_option_id=options.index(correct_answer),
-                        is_anonymous=True
-                    )
-                i += 1
-                print(f"MCQ {i} posted successfully!")
-                if i%5 == 0:
-                    for idss in chat_listt:
-                        await bot.send_message(chat_id=idss , text="🌻 #upsc #ssc #ssccgl #uppcs daily MCQs \nGk, GS, Current Affairs Quiz, E-books, PDF & All the Important One Liner Question for #UPSC #CDS Railways SSC UPPCS #SSCGD #SSCCGL #SSC #SSCMTS Etc. \nCompetitive Exams....")
-                        print("Text printed successfully")
-                    
-                
-            else:
-                print(f"Failed to extract variables for MCQ {i+1}. Raw response:\n{text}")
+def send_poll(channel, question):
+    """Send one quiz poll."""
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPoll"
 
-        except Exception as e:
-            print(f"Error posting MCQ {i+1}: {e}")
+    payload = {
+        "chat_id": channel,
+        "question": question["question"],
+        "options": json.dumps(question["options"]),
+        "type": "quiz",
+        "correct_option_id": question["answer"],
+        "is_anonymous": True
+    }
 
-        print("pause : 1200s")
+    r = requests.post(url, data=payload)
 
-        await asyncio.sleep(1200)
+    if r.ok:
+        print(f"[{channel}] Posted: {question['question']}")
+        return True
+    else:
+        print(f"[{channel}] Failed:")
+        print(r.text)
+        return False
+
+
+def load_questions():
+    file = Path(QUESTIONS_FILE)
+
+    if not file.exists():
+        raise FileNotFoundError(f"{QUESTIONS_FILE} not found.")
+
+    with file.open("r", encoding="utf-8") as f:
+        lines = [line.strip() for line in f if line.strip()]
+
+    return lines
+
+
+def rotate_questions(lines, used):
+    remaining = lines[used:]
+    moved = lines[:used]
+
+    with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
+        for line in remaining + moved:
+            f.write(line + "\n")
+
+
+def main():
+
+    lines = load_questions()
+
+    if len(lines) == 0:
+        print("No questions found.")
+        return
+
+    count = min(POLLS_PER_RUN, len(lines))
+
+    current_questions = lines[:count]
+
+    # Post to every channel
+    for channel in CHANNELS:
+
+        print(f"\nPosting to {channel}")
+
+        send_message(channel, INTRO)
+
+        for line in current_questions:
+
+            try:
+                question = json.loads(line)
+                send_poll(channel, question)
+
+            except Exception as e:
+                print("Invalid JSON:")
+                print(e)
+         # Send ending message
+        send_message(channel, OUTRO)
+
+    # Rotate file after successful posting loop
+    rotate_questions(lines, count)
+
+    print("\n====================================")
+    print(f"Rotated {count} questions.")
+    print("Done!")
+    print("====================================")
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
