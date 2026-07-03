@@ -1,0 +1,252 @@
+{"question": "Under which FDI route is government approval NOT required?", "options": ["Automatic Route", "Government Route", "Hybrid Route", "NRI Route"], "answer": 0}
+{"question": "Inter-state river water disputes in India are resolved under which act?", "options": ["Inter-State River Water Disputes Act, 1956", "Right to Information Act", "Indian Penal Code", "None of these"], "answer": 0}
+{"question": "Tribunals in India are established under which constitutional articles?", "options": ["Article 323A and 323B", "Article 32", "Article 356", "Article 370"], "answer": 0}
+{"question": "The Rajya Sabha is also known as?", "options": ["Council of States", "House of the People", "State Assembly", "Legislative Council"], "answer": 0}
+{"question": "The Ryotwari System was introduced by?", "options": ["Thomas Munro", "Lord Cornwallis", "Warren Hastings", "Lord Bentinck"], "answer": 0}
+{"question": "The Continental Drift Theory was proposed by?", "options": ["Alfred Wegener", "Charles Darwin", "Isaac Newton", "Arthur Holmes"], "answer": 0}
+{"question": "The Blue Revolution in India relates to?", "options": ["Fish production", "Milk production", "Foodgrain production", "Oilseed production"], "answer": 0}
+{"question": "The Harappans were especially skilled in?", "options": ["Bronze and terracotta work", "Iron smelting", "Glass making", "Paper making"], "answer": 0}
+{"question": "Members of a Legislative Assembly are called?", "options": ["MLAs", "MPs", "MLCs", "Sarpanchs"], "answer": 0}
+{"question": "The Mountbatten Plan was announced in?", "options": ["June 1947", "August 1947", "1946", "1935"], "answer": 0}
+{"question": "Which of the following comes under physical infrastructure?", "options": ["Roads and Railways", "Education", "Health", "Banking"], "answer": 0}
+{"question": "The power sector in India comprises?", "options": ["Generation, transmission, and distribution", "Only generation", "Only distribution", "Only transmission"], "answer": 0}
+{"question": "Demographic dividend refers to the benefit derived from?", "options": ["A higher working-age population", "A higher elderly population", "A higher child population", "An equal population distribution"], "answer": 0}
+{"question": "Cabinet Committees in India are constituted by the?", "options": ["Prime Minister", "President", "Parliament", "Speaker"], "answer": 0}
+{"question": "The Mountbatten Plan is also known as the?", "options": ["3rd June Plan", "Cripps Plan", "Wavell Plan", "August Offer"], "answer": 0}
+{"question": "Centre-State disputes mainly relate to?", "options": ["Distribution of powers", "Foreign policy only", "Judicial appointments only", "None of these"], "answer": 0}
+{"question": "Small Finance Banks primarily aim to serve?", "options": ["Unserved and underserved sections of society", "Large corporates", "Foreign investors", "Government only"], "answer": 0}
+{"question": "The Estimates Committee of Parliament examines?", "options": ["Budget estimates for economy", "Foreign policy matters", "Judicial matters", "Defence strategy"], "answer": 0}
+{"question": "Which is an example of an inter-state river water dispute in India?", "options": ["Cauvery Water Dispute", "Indus Water Treaty", "Radcliffe Line", "McMahon Line"], "answer": 0}
+{"question": "Centre-State relations are covered under which part of the Indian Constitution?", "options": ["Part XI", "Part III", "Part IV", "Part V"], "answer": 0}
+{"question": "The Special Economic Zones (SEZ) Act came into force in?", "options": ["2005", "1991", "2000", "2010"], "answer": 0}
+{"question": "Inclusive growth primarily aims at?", "options": ["Equitable distribution of growth benefits", "Only GDP growth", "Only urban growth", "Only industrial growth"], "answer": 0}
+{"question": "Sustainability aims to balance development with?", "options": ["Environmental protection", "Population growth", "Urbanization only", "Industrialization only"], "answer": 0}
+{"question": "Money laundering in India is governed by which act?", "options": ["Prevention of Money Laundering Act, 2002", "Indian Penal Code, 1860", "FEMA, 1999", "RTI Act, 2005"], "answer": 0}
+{"question": "The Koeppen classification of world climatic regions is based on?", "options": ["Temperature and precipitation", "Only rainfall", "Only temperature", "Wind patterns"], "answer": 0}
+{"question": "Deflation refers to?", "options": ["A general fall in price level", "A general rise in price level", "Stagnant prices", "Currency devaluation"], "answer": 0}
+{"question": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in?", "options": ["2003", "1991", "2000", "2016"], "answer": 0}
+{"question": "Which is the most fertile soil type found in India?", "options": ["Alluvial soil", "Laterite soil", "Black soil", "Desert soil"], "answer": 0}
+{"question": "The Lucknow Pact (1916) was an agreement between?", "options": ["Congress and Muslim League", "Congress and the British", "Muslim League and the British", "INA and Congress"], "answer": 0}
+{"question": "Vedic society was mainly divided into?", "options": ["Four varnas", "Two classes", "Three classes", "Five varnas"], "answer": 0}
+{"question": "A budget that shows deficit financing is called a?", "options": ["Deficit budget", "Balanced budget", "Surplus budget", "Zero-based budget"], "answer": 0}
+{"question": "Jainism was propagated by?", "options": ["Mahavira", "Buddha", "Ashoka", "Kanishka"], "answer": 0}
+{"question": "The Southern Oscillation relates to pressure changes over which ocean?", "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"], "answer": 0}
+{"question": "What was the immediate cause of the 1857 Revolt?", "options": ["Greased cartridges", "Partition of Bengal", "Salt Tax", "Jallianwala Bagh massacre"], "answer": 0}
+{"question": "The Sufi movement primarily emphasized?", "options": ["Mysticism and devotion", "Idol worship", "The caste system", "Ritualism"], "answer": 0}
+{"question": "The names of Indian states and union territories are listed in which schedule of the Constitution?", "options": ["First Schedule", "Second Schedule", "Seventh Schedule", "Ninth Schedule"], "answer": 0}
+{"question": "Which is the deepest ocean trench in the world?", "options": ["Mariana Trench", "Java Trench", "Puerto Rico Trench", "Tonga Trench"], "answer": 0}
+{"question": "Fiscal deficit is defined as?", "options": ["Total expenditure minus total receipts excluding borrowings", "Revenue minus capital expenditure", "Total income minus total tax", "None of these"], "answer": 0}
+{"question": "The western coastal plain of India is also known as the?", "options": ["Konkan and Malabar Coast", "Coromandel Coast", "Northern Circars", "Utkal Plain"], "answer": 0}
+{"question": "Fundamental Rights can be restricted during a?", "options": ["National Emergency", "General election", "Budget session", "Court vacation"], "answer": 0}
+{"question": "A distinctive feature of Harappan town planning was?", "options": ["Grid pattern layout", "Circular layout", "Random layout", "Hill-top settlements"], "answer": 0}
+{"question": "Which of the following is a local wind?", "options": ["Loo", "Trade Wind", "Westerlies", "Jet Stream"], "answer": 0}
+{"question": "The Union Budget of India is presented by the?", "options": ["Finance Minister", "Prime Minister", "President", "RBI Governor"], "answer": 0}
+{"question": "A budget where revenue equals expenditure is called a?", "options": ["Balanced budget", "Deficit budget", "Surplus budget", "Zero budget"], "answer": 0}
+{"question": "'One Nation One Election' refers to?", "options": ["Holding Lok Sabha and State elections together", "Holding only Lok Sabha elections", "Holding only local body elections", "Holding only Presidential elections"], "answer": 0}
+{"question": "Members of the Rajya Sabha have a term of?", "options": ["6 years", "5 years", "4 years", "Permanent"], "answer": 0}
+{"question": "The Union Budget is presented under which article of the Constitution?", "options": ["Article 112", "Article 110", "Article 356", "Article 370"], "answer": 0}
+{"question": "India's first iron and steel plant (Tata Steel) was set up at?", "options": ["Jamshedpur", "Bhilai", "Durgapur", "Rourkela"], "answer": 0}
+{"question": "Commercial banks in India are regulated by?", "options": ["RBI", "SEBI", "IRDAI", "NABARD"], "answer": 0}
+{"question": "Lord Wellesley is known for introducing which policy?", "options": ["Subsidiary Alliance", "Doctrine of Lapse", "Permanent Settlement", "Ryotwari System"], "answer": 0}
+{"question": "Which is the largest mangrove forest in India?", "options": ["Sundarbans", "Bhitarkanika", "Pichavaram", "Coringa"], "answer": 0}
+{"question": "Which of the following is an east-flowing river of India?", "options": ["Mahanadi", "Narmada", "Tapi", "Sabarmati"], "answer": 0}
+{"question": "The Ryotwari System was mainly prevalent in?", "options": ["Madras and Bombay Presidency", "Bengal", "Punjab", "Awadh"], "answer": 0}
+{"question": "Which layer of the atmosphere is closest to the Earth's surface?", "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"], "answer": 0}
+{"question": "A rock formed by the cooling of magma is called?", "options": ["Igneous rock", "Sedimentary rock", "Metamorphic rock", "None of these"], "answer": 0}
+{"question": "The supercontinent proposed by Alfred Wegener is called?", "options": ["Pangaea", "Gondwana", "Laurasia", "Rodinia"], "answer": 0}
+{"question": "Regional Trade Agreements primarily aim to?", "options": ["Reduce trade barriers between member countries", "Increase tariffs", "Restrict trade", "Promote economic isolation"], "answer": 0}
+{"question": "Payment Banks in India are NOT permitted to?", "options": ["Issue loans and credit cards", "Accept deposits", "Offer remittance services", "Issue debit cards"], "answer": 0}
+{"question": "The British East India Company received its royal charter to trade in?", "options": ["1600", "1757", "1858", "1613"], "answer": 0}
+{"question": "The PM-KISAN scheme provides income support to?", "options": ["Farmers", "Industrial workers", "Students", "Senior citizens"], "answer": 0}
+{"question": "Which of the following is NOT a type of commercial bank?", "options": ["Cooperative bank", "Public sector bank", "Private sector bank", "Foreign bank"], "answer": 0}
+{"question": "Financial Emergency in India can be declared under Article?", "options": ["360", "356", "352", "368"], "answer": 0}
+{"question": "Reservation for Other Backward Classes (OBCs) was recommended by the?", "options": ["Mandal Commission", "Sachar Committee", "Kothari Commission", "Rangarajan Committee"], "answer": 0}
+{"question": "The Regulating Act of 1773 established the post of?", "options": ["Governor-General of Bengal", "Governor-General of India", "Supreme Court at Delhi", "A Parliament in India"], "answer": 0}
+{"question": "Emperor Jahangir was the son of?", "options": ["Akbar", "Babur", "Humayun", "Shah Jahan"], "answer": 0}
+{"question": "Chilika Lake is located in which Indian state?", "options": ["Odisha", "Kerala", "Rajasthan", "Jammu and Kashmir"], "answer": 0}
+{"question": "As per the Constitution, the official language of the Union of India is?", "options": ["Hindi", "English", "Sanskrit", "Tamil"], "answer": 0}
+{"question": "The Union Budget in India is usually presented in which month?", "options": ["February", "April", "March", "January"], "answer": 0}
+{"question": "Who was the first Sikh Guru?", "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Tegh Bahadur"], "answer": 0}
+{"question": "Pitt's India Act of 1784 established the?", "options": ["Board of Control", "Supreme Court", "Post of Governor General", "Subsidiary Alliance"], "answer": 0}
+{"question": "The Right to Constitutional Remedies is provided under which article?", "options": ["Article 32", "Article 21", "Article 19", "Article 14"], "answer": 0}
+{"question": "The Brahmaputra River originates in?", "options": ["Tibet", "Nepal", "Bhutan", "Sikkim"], "answer": 0}
+{"question": "The Permanent Settlement was introduced by?", "options": ["Lord Cornwallis", "Lord Wellesley", "Warren Hastings", "Thomas Munro"], "answer": 0}
+{"question": "Which sector employs the largest share of India's population?", "options": ["Agriculture", "Industry", "Services", "IT sector"], "answer": 0}
+{"question": "The Partition of Bengal in 1905 was carried out by?", "options": ["Lord Curzon", "Lord Mountbatten", "Lord Wellesley", "Lord Dalhousie"], "answer": 0}
+{"question": "India's first cotton textile mill was set up in?", "options": ["Mumbai", "Kolkata", "Ahmedabad", "Chennai"], "answer": 0}
+{"question": "The Skill India Mission was launched in?", "options": ["2015", "2010", "2005", "2020"], "answer": 0}
+{"question": "The White Revolution in India is associated with?", "options": ["Milk production", "Fish production", "Foodgrain production", "Oilseed production"], "answer": 0}
+{"question": "Babur founded the Mughal Empire after his victory at the?", "options": ["First Battle of Panipat", "Second Battle of Panipat", "Battle of Plassey", "Battle of Haldighati"], "answer": 0}
+{"question": "Ecological succession that begins on bare rock is called?", "options": ["Primary succession", "Secondary succession", "Tertiary succession", "None of these"], "answer": 0}
+{"question": "The Brahmo Samaj was founded by?", "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Dayananda Saraswati", "Ishwar Chandra Vidyasagar"], "answer": 0}
+{"question": "The Smart Cities Mission was launched in?", "options": ["2015", "2010", "2019", "2005"], "answer": 0}
+{"question": "Which Indian state is the largest producer of iron ore?", "options": ["Odisha", "Chhattisgarh", "Jharkhand", "Karnataka"], "answer": 0}
+{"question": "The Revolt of 1857 began at?", "options": ["Meerut", "Delhi", "Kanpur", "Lucknow"], "answer": 0}
+{"question": "Non-Banking Financial Companies (NBFCs) are regulated by?", "options": ["RBI", "SEBI", "IRDAI", "Ministry of Finance"], "answer": 0}
+{"question": "The poverty line in India is estimated by?", "options": ["NITI Aayog", "RBI", "SEBI", "Ministry of Finance"], "answer": 0}
+{"question": "The Palk Strait lies between?", "options": ["India and Sri Lanka", "India and Bangladesh", "India and Myanmar", "India and Pakistan"], "answer": 0}
+{"question": "Which of the following is a type of coral reef?", "options": ["Fringing Reef", "River Delta", "Estuary", "Floodplain"], "answer": 0}
+{"question": "The Godavari river flows into?", "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean directly", "None of these"], "answer": 0}
+{"question": "As per the Constitution, the maximum strength of the Lok Sabha is?", "options": ["552", "545", "500", "250"], "answer": 0}
+{"question": "A common feature of Karst topography is?", "options": ["Caves and sinkholes", "Sand dunes", "Deltas", "Fjords"], "answer": 0}
+{"question": "The Wholesale Price Index (WPI) in India does NOT include?", "options": ["Retail prices of services", "Manufactured goods", "Primary articles", "Fuel and power"], "answer": 0}
+{"question": "Which is the largest ocean in the world?", "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"], "answer": 0}
+{"question": "The Indian Constitution is often described as?", "options": ["The longest written constitution in the world", "The shortest constitution", "An unwritten constitution", "A rigid constitution only"], "answer": 0}
+{"question": "The Liberalization, Privatization, Globalization (LPG) reforms in India began in?", "options": ["1991", "1947", "1985", "2000"], "answer": 0}
+{"question": "Members of a State Legislative Assembly are elected for a term of?", "options": ["5 years", "6 years", "4 years", "3 years"], "answer": 0}
+{"question": "The Finance Commission of India is constituted under which article?", "options": ["Article 280", "Article 281", "Article 282", "Article 283"], "answer": 0}
+{"question": "Which is considered the most powerful Cabinet Committee?", "options": ["Cabinet Committee on Security", "Cabinet Committee on Economic Affairs", "Cabinet Committee on Accommodation", "Cabinet Committee on Prices"], "answer": 0}
+{"question": "Which of the following is an example of a Free Trade Agreement?", "options": ["SAFTA", "WTO", "IMF", "UN"], "answer": 0}
+{"question": "One of the primary functions of the RBI is to act as the?", "options": ["Monetary authority and currency issuer", "Tax collector", "Budget preparer", "Election conductor"], "answer": 0}
+{"question": "Which of the following dynasties was NOT a part of the Delhi Sultanate?", "options": ["Mughal", "Khilji", "Tughlaq", "Lodi"], "answer": 0}
+{"question": "The 'One Nation One Election' concept mainly aims to?", "options": ["Synchronize elections across the country", "Abolish elections", "Increase election frequency", "Remove the Parliament"], "answer": 0}
+{"question": "The Jallianwala Bagh Massacre took place in?", "options": ["1919", "1857", "1905", "1942"], "answer": 0}
+{"question": "An ecosystem consists of?", "options": ["Biotic and abiotic components", "Only biotic components", "Only abiotic components", "Only producers"], "answer": 0}
+{"question": "The Permanent Settlement was introduced in which region?", "options": ["Bengal", "Punjab", "Madras", "Bombay"], "answer": 0}
+{"question": "Overseas Citizens of India (OCI) card holders are NOT entitled to?", "options": ["Voting rights", "A lifelong visa", "Property purchase (except agricultural)", "Multiple entry into India"], "answer": 0}
+{"question": "The largest coal reserves in India are found in?", "options": ["Jharkhand", "Kerala", "Punjab", "Gujarat"], "answer": 0}
+{"question": "The Ryotwari System established a direct settlement between the government and the?", "options": ["Cultivator", "Zamindar", "Village headman", "Moneylender"], "answer": 0}
+{"question": "The Attorney General of India is appointed by the?", "options": ["President", "Prime Minister", "Chief Justice", "Parliament"], "answer": 0}
+{"question": "Which of the following is a direct tax?", "options": ["Income Tax", "GST", "Customs Duty", "Excise Duty"], "answer": 0}
+{"question": "NBFCs in India are not permitted to accept?", "options": ["Demand deposits", "Fixed deposits", "Public deposits", "Term deposits"], "answer": 0}
+{"question": "The Committee on Public Undertakings examines the working of?", "options": ["Public sector undertakings", "Private companies", "State governments", "The judiciary"], "answer": 0}
+{"question": "The 101st Constitutional Amendment introduced?", "options": ["GST", "Right to Education", "Anti-defection law", "Panchayati Raj"], "answer": 0}
+{"question": "Parliamentary privileges refer to the special rights enjoyed by?", "options": ["Members of Parliament", "Judges", "Civil servants", "Governors"], "answer": 0}
+{"question": "The Green Revolution in India is primarily associated with?", "options": ["Foodgrain production", "Milk production", "Fish production", "Oilseed production"], "answer": 0}
+{"question": "The Right against Exploitation is covered under which articles?", "options": ["Articles 23-24", "Articles 14-18", "Articles 19-22", "Articles 25-28"], "answer": 0}
+{"question": "Subordinate courts in a state function under the supervision of the?", "options": ["High Court", "Supreme Court", "President", "Parliament"], "answer": 0}
+{"question": "Which of the following is a type of cloud?", "options": ["Cirrus", "Delta", "Plateau", "Plain"], "answer": 0}
+{"question": "India's climate is broadly classified as?", "options": ["Tropical monsoon", "Mediterranean", "Polar", "Desert only"], "answer": 0}
+{"question": "The Ramsar Convention is primarily related to?", "options": ["Wetland conservation", "Wildlife trade", "Ozone layer protection", "Climate change"], "answer": 0}
+{"question": "NITI Aayog replaced which earlier institution?", "options": ["Planning Commission", "Finance Commission", "Election Commission", "UPSC"], "answer": 0}
+{"question": "Aeolian landforms are primarily formed by?", "options": ["Wind action", "Water action", "Glacial action", "Volcanic action"], "answer": 0}
+{"question": "India is a leading global producer of which mineral?", "options": ["Mica", "Petroleum", "Gold", "Diamond"], "answer": 0}
+{"question": "Agriculture's approximate contribution to India's GDP is?", "options": ["15-18%", "50%", "5%", "70%"], "answer": 0}
+{"question": "The Later Vedic Period is particularly associated with?", "options": ["Iron use and Painted Grey Ware", "Bronze use only", "Harappan seals", "Stone tools only"], "answer": 0}
+{"question": "Which of the following is a planetary wind?", "options": ["Trade Winds", "Land Breeze", "Sea Breeze", "Loo"], "answer": 0}
+{"question": "Who has the power to constitute a Joint Parliamentary Committee?", "options": ["Parliament", "President", "Prime Minister", "Speaker"], "answer": 0}
+{"question": "Which organisms are called decomposers?", "options": ["Fungi and bacteria", "Green plants", "Herbivores", "Carnivores"], "answer": 0}
+{"question": "Which year was the Startup India initiative launched?", "options": ["2016", "2014", "2018", "2020"], "answer": 0}
+{"question": "Which is the largest ocean in the world?", "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"], "answer": 0}
+{"question": "Which Indian islands are of volcanic origin?", "options": ["Barren and Narcondam Islands", "Lakshadweep Islands", "Andaman Islands", "Nicobar Islands"], "answer": 0}
+{"question": "Which organisation releases the Multidimensional Poverty Index for India?", "options": ["NITI Aayog", "Reserve Bank of India", "Ministry of Finance", "Planning Commission"], "answer": 0}
+{"question": "Lakshadweep Islands are located in which sea?", "options": ["Arabian Sea", "Bay of Bengal", "Andaman Sea", "Coral Sea"], "answer": 0}
+{"question": "Which article of the Indian Constitution deals with Cultural and Educational Rights?", "options": ["Article 29-30", "Article 19-22", "Article 14-18", "Article 32-35"], "answer": 0}
+{"question": "Which scheme aims at providing basic infrastructure services to urban areas?", "options": ["AMRUT", "PMAY", "MGNREGA", "Swachh Bharat Mission"], "answer": 0}
+{"question": "Who founded the Indian National Congress in 1885?", "options": ["A.O. Hume", "Dadabhai Naoroji", "W.C. Banerjee", "Surendranath Banerjee"], "answer": 0}
+{"question": "How many principal vows (Panch Mahavrata) form the core of Mahavira's teachings?", "options": ["Five", "Four", "Eight", "Three"], "answer": 0}
+{"question": "Which article of the Constitution establishes the Consolidated Fund of India?", "options": ["Article 266", "Article 112", "Article 280", "Article 265"], "answer": 0}
+{"question": "In which year was the Make in India initiative launched?", "options": ["2014", "2016", "2012", "2018"], "answer": 0}
+{"question": "Which constitutional amendment introduced Tribunals into the Indian Constitution?", "options": ["42nd Amendment", "44th Amendment", "73rd Amendment", "61st Amendment"], "answer": 0}
+{"question": "Which institution regulates the money market in India?", "options": ["Reserve Bank of India", "SEBI", "IRDAI", "NABARD"], "answer": 0}
+{"question": "Which program aims to provide broadband connectivity to rural areas of India?", "options": ["BharatNet", "Digital India", "Make in India", "Startup India"], "answer": 0}
+{"question": "Which scheme was launched in 2014 to promote financial inclusion in India?", "options": ["Pradhan Mantri Jan Dhan Yojana", "Atal Pension Yojana", "PM Mudra Yojana", "Stand-Up India"], "answer": 0}
+{"question": "Whose travel account is a major source of information on society under the Delhi Sultanate?", "options": ["Ibn Battuta", "Al-Biruni", "Megasthenes", "Fa-Hien"], "answer": 0}
+{"question": "Which index number measures changes in the general price level over time?", "options": ["Price Index", "Quantity Index", "Value Index", "Volume Index"], "answer": 0}
+{"question": "In which year did the Jallianwala Bagh Massacre take place?", "options": ["1919", "1920", "1857", "1929"], "answer": 0}
+{"question": "In which year was the OCI (Overseas Citizen of India) scheme introduced?", "options": ["2005", "2000", "2010", "2015"], "answer": 0}
+{"question": "Which was India's first dedicated industrial corridor project?", "options": ["Delhi-Mumbai Industrial Corridor", "Chennai-Bengaluru Industrial Corridor", "Amritsar-Kolkata Industrial Corridor", "Vizag-Chennai Industrial Corridor"], "answer": 0}
+{"question": "A Money Bill can only be introduced in which House of Parliament?", "options": ["Lok Sabha", "Rajya Sabha", "Either House", "Joint Sitting"], "answer": 0}
+{"question": "Insolation refers to the incoming solar radiation received by:", "options": ["Earth's surface", "Ozone layer only", "Stratosphere only", "Ionosphere only"], "answer": 0}
+{"question": "Regional Rural Banks in India were established under an Act passed in which year?", "options": ["1976", "1969", "1980", "1991"], "answer": 0}
+{"question": "Which organisms occupy the first trophic level in a food chain?", "options": ["Producers (green plants)", "Herbivores", "Carnivores", "Decomposers"], "answer": 0}
+{"question": "Hydroelectric power is generated by harnessing the energy of:", "options": ["Flowing/falling water", "Wind", "Sunlight", "Coal combustion"], "answer": 0}
+{"question": "Which of the following is recorded in the Capital Account of India's Balance of Payments?", "options": ["Foreign Direct Investment", "Merchandise exports", "Merchandise imports", "Remittances"], "answer": 0}
+{"question": "The Chalukya dynasty had its capital at:", "options": ["Badami", "Kanchipuram", "Thanjavur", "Madurai"], "answer": 0}
+{"question": "Which route allows FDI without prior approval of the Government or RBI?", "options": ["Automatic Route", "Government Route", "Approval Route", "Mixed Route"], "answer": 0}
+{"question": "In which year was the first passenger railway train run in India?", "options": ["1853", "1857", "1869", "1901"], "answer": 0}
+{"question": "Which organisation conducts the Periodic Labour Force Survey (PLFS) in India?", "options": ["National Statistical Office (NSO)", "RBI", "NITI Aayog", "Ministry of Finance"], "answer": 0}
+{"question": "The Industrial Policy Resolution of 1956 classified industries into how many categories?", "options": ["Three", "Two", "Four", "Five"], "answer": 0}
+{"question": "Who founded the Arya Samaj in 1875?", "options": ["Swami Dayananda Saraswati", "Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar"], "answer": 0}
+{"question": "The opening through which volcanic materials erupt onto the Earth's surface is called:", "options": ["Crater", "Caldera", "Magma chamber", "Fissure"], "answer": 0}
+{"question": "The Quit India Movement was launched in which year?", "options": ["1942", "1930", "1920", "1947"], "answer": 0}
+{"question": "Ashoka embraced Buddhism after which war?", "options": ["Kalinga War", "Battle of Panipat", "Battle of Plassey", "Battle of Hydaspes"], "answer": 0}
+{"question": "Which climate classification system is most widely used to classify world climates?", "options": ["Koppen Classification", "Thornthwaite Classification", "Trewartha Classification", "Miller Classification"], "answer": 0}
+{"question": "The Union Budget of India is presented under which Article of the Constitution?", "options": ["Article 112", "Article 110", "Article 265", "Article 280"], "answer": 0}
+{"question": "Folding and faulting of the Earth's crust are examples of which type of movement?", "options": ["Endogenic (internal) movement", "Exogenic (external) movement", "Erosional movement", "Depositional movement"], "answer": 0}
+{"question": "The calm, clear area at the centre of a cyclone is called:", "options": ["Eye of the storm", "Cyclone belt", "Vortex ring", "Storm surge"], "answer": 0}
+{"question": "Mahavira's teachings form the core of which religion?", "options": ["Jainism", "Buddhism", "Sikhism", "Zoroastrianism"], "answer": 0}
+{"question": "Under which exchange rate system does a currency's value fluctuate freely based on market forces?", "options": ["Floating exchange rate", "Fixed exchange rate", "Pegged exchange rate", "Managed exchange rate"], "answer": 0}
+{"question": "What does 'Maharatna' status confer on a Central Public Sector Enterprise?", "options": ["Greater financial and operational autonomy", "Tax exemption", "Foreign ownership rights", "Full privatisation"], "answer": 0}
+{"question": "Who is generally regarded as the last ruler of the Mauryan Empire?", "options": ["Brihadratha", "Ashoka", "Bindusara", "Chandragupta Maurya"], "answer": 0}
+{"question": "Which gas is considered the primary contributor to global warming?", "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"], "answer": 0}
+{"question": "Babur founded the Mughal Empire after defeating whom in the First Battle of Panipat (1526)?", "options": ["Ibrahim Lodi", "Rana Sanga", "Sher Shah Suri", "Hemu"], "answer": 0}
+{"question": "Zonal Councils in India were established under which Act?", "options": ["States Reorganisation Act, 1956", "Government of India Act, 1935", "73rd Constitutional Amendment Act", "Indian Independence Act, 1947"], "answer": 0}
+{"question": "Fiscal deficit is the difference between total expenditure and total receipts excluding:", "options": ["Borrowings", "Tax revenue", "Non-tax revenue", "Capital expenditure"], "answer": 0}
+{"question": "Inclusive growth primarily aims at:", "options": ["Equitable distribution of growth benefits across all sections of society", "Maximising GDP growth alone", "Increasing exports only", "Reducing government expenditure"], "answer": 0}
+{"question": "Eutrophication of water bodies is primarily caused by excess of which nutrients?", "options": ["Nitrogen and Phosphorus", "Carbon and Oxygen", "Sulphur and Calcium", "Potassium and Sodium"], "answer": 0}
+{"question": "The concept of the 'Geographical Cycle' (Cycle of Erosion) was given by:", "options": ["William Morris Davis", "Walther Penck", "Karl Ritter", "Alfred Wegener"], "answer": 0}
+{"question": "The Collegium System in India is related to:", "options": ["Appointment of judges", "Appointment of Election Commissioners", "Appointment of Governors", "Appointment of the Attorney General"], "answer": 0}
+{"question": "Ecological succession that begins on a bare rock with no prior life is called:", "options": ["Primary succession", "Secondary succession", "Cyclic succession", "Deflected succession"], "answer": 0}
+{"question": "How many Noble Truths did Buddha preach?", "options": ["Four", "Five", "Eight", "Three"], "answer": 0}
+{"question": "Which body is responsible for conducting the decennial Census in India?", "options": ["Office of the Registrar General and Census Commissioner", "National Statistical Office", "NITI Aayog", "Ministry of Home Affairs"], "answer": 0}
+{"question": "Which ministry is responsible for the fisheries sector in India?", "options": ["Ministry of Fisheries, Animal Husbandry and Dairying", "Ministry of Agriculture", "Ministry of Environment", "Ministry of Commerce"], "answer": 0}
+{"question": "Jainism was propagated in the 6th century BCE mainly by:", "options": ["Mahavira", "Buddha", "Makkhali Gosala", "Ajita Kesakambali"], "answer": 0}
+{"question": "The highest point of a wave is called:", "options": ["Crest", "Trough", "Wavelength", "Amplitude"], "answer": 0}
+{"question": "The Indian monsoon is broadly divided into which two types?", "options": ["Southwest and Northeast monsoon", "Summer and Winter monsoon only", "Tropical and Temperate monsoon", "Coastal and Inland monsoon"], "answer": 0}
+{"question": "Citizenship provisions are dealt with in which Part of the Indian Constitution?", "options": ["Part II", "Part III", "Part IV", "Part V"], "answer": 0}
+{"question": "The Mahalwari System of land revenue was mainly implemented in:", "options": ["North-Western Provinces (Punjab and parts of UP)", "Bengal and Bihar", "Madras and Bombay Presidencies", "Deccan Plateau"], "answer": 0}
+{"question": "Mahavira's fifth vow, added to Parshvanatha's four, was:", "options": ["Brahmacharya (celibacy)", "Ahimsa (non-violence)", "Satya (truth)", "Aparigraha (non-possession)"], "answer": 0}
+{"question": "How many types of Emergency are provided for in the Indian Constitution?", "options": ["Three", "Two", "Four", "Five"], "answer": 0}
+{"question": "Shivaji was crowned as Chhatrapati (king) in which year?", "options": ["1674", "1666", "1680", "1657"], "answer": 0}
+{"question": "Which is the oldest stock exchange in Asia?", "options": ["Bombay Stock Exchange", "National Stock Exchange", "Calcutta Stock Exchange", "Tokyo Stock Exchange"], "answer": 0}
+{"question": "The Paleolithic Age in India is primarily characterised by tools made of:", "options": ["Stone", "Bronze", "Iron", "Copper"], "answer": 0}
+{"question": "Which body was set up to examine Centre-State relations and submitted its report in 1988?", "options": ["Sarkaria Commission", "Punchhi Commission", "Finance Commission", "Administrative Reforms Commission"], "answer": 0}
+{"question": "Which mission focuses on developing 100 smart cities in India?", "options": ["Smart Cities Mission", "AMRUT", "PMAY", "Swachh Bharat Mission"], "answer": 0}
+{"question": "The 'Make in India' logo features which animal?", "options": ["Lion", "Tiger", "Elephant", "Peacock"], "answer": 0}
+{"question": "Which river basin is the largest in India by area?", "options": ["Ganga basin", "Godavari basin", "Krishna basin", "Narmada basin"], "answer": 0}
+{"question": "Who acts as the ex-officio Chairman of the Rajya Sabha?", "options": ["Vice-President of India", "President of India", "Speaker of Lok Sabha", "Deputy Chairman of Rajya Sabha"], "answer": 0}
+{"question": "The headquarters of the New Development Bank (BRICS Bank) is located in:", "options": ["Shanghai", "Beijing", "New Delhi", "Moscow"], "answer": 0}
+{"question": "Which layer of the atmosphere is closest to the Earth's surface?", "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"], "answer": 0}
+{"question": "FDI differs from Foreign Institutional Investment (FII) mainly because FDI involves:", "options": ["Long-term stake and management control", "Only stock market investment", "Short-term speculative investment", "Currency trading only"], "answer": 0}
+{"question": "Humayun was defeated and temporarily lost his throne to:", "options": ["Sher Shah Suri", "Babur", "Akbar", "Rana Sanga"], "answer": 0}
+{"question": "The Satavahana dynasty primarily ruled over which region?", "options": ["Deccan Plateau", "Gangetic Plain", "Punjab", "Kashmir"], "answer": 0}
+{"question": "Which Indian state is known for having the largest coal reserves?", "options": ["Jharkhand", "West Bengal", "Odisha", "Chhattisgarh"], "answer": 0}
+{"question": "The Dutch established one of their earliest factories in India at:", "options": ["Masulipatnam", "Surat", "Pulicat", "Cochin"], "answer": 0}
+{"question": "Which Industrial Policy is known for delicensing most industries in India?", "options": ["New Industrial Policy, 1991", "Industrial Policy, 1956", "Industrial Policy, 1948", "Industrial Policy, 1980"], "answer": 0}
+{"question": "Insolation received by the Earth varies mainly due to:", "options": ["Angle of incidence of sun's rays and duration of daylight", "Rotation of the moon", "Ocean currents alone", "Magnetic field of the Earth"], "answer": 0}
+{"question": "India's climate is broadly classified as:", "options": ["Tropical Monsoon type", "Mediterranean type", "Temperate type", "Polar type"], "answer": 0}
+{"question": "The Anti-Defection Law is contained in which Schedule of the Constitution?", "options": ["Tenth Schedule", "Ninth Schedule", "Eighth Schedule", "Seventh Schedule"], "answer": 0}
+{"question": "Which Constitutional Amendment introduced the Goods and Services Tax (GST) in India?", "options": ["101st Amendment", "100th Amendment", "99th Amendment", "102nd Amendment"], "answer": 0}
+{"question": "Article 30 of the Constitution grants rights to which group?", "options": ["Minorities to establish and administer educational institutions", "Scheduled Castes for reservation", "Women for equal pay", "Farmers for land rights"], "answer": 0}
+{"question": "The Attorney General of India is appointed by:", "options": ["The President of India", "The Prime Minister", "The Chief Justice of India", "The Parliament"], "answer": 0}
+{"question": "Which of the following is a phase of the business cycle?", "options": ["Recession", "Inflation targeting", "Fiscal deficit", "Current account"], "answer": 0}
+{"question": "The French East India Company established its main settlement in India at:", "options": ["Pondicherry", "Chandernagore", "Mahe", "Surat"], "answer": 0}
+{"question": "How many Zonal Councils are there in India?", "options": ["Five", "Four", "Six", "Seven"], "answer": 0}
+{"question": "The motto of the Arya Samaj is:", "options": ["Krinvanto Vishwam Aryam ('Make this world noble')", "Satyameva Jayate", "Vasudhaiva Kutumbakam", "Dharma Chakra Pravartanaya"], "answer": 0}
+{"question": "Which index measures a country's environmental performance globally?", "options": ["Environmental Performance Index (EPI)", "Human Development Index (HDI)", "Global Hunger Index (GHI)", "Ease of Doing Business Index"], "answer": 0}
+{"question": "The UPSC is established under which Article of the Constitution?", "options": ["Article 315", "Article 280", "Article 324", "Article 76"], "answer": 0}
+{"question": "Which Tribunal deals with disputes related to environment in India?", "options": ["National Green Tribunal", "Central Administrative Tribunal", "Income Tax Appellate Tribunal", "Armed Forces Tribunal"], "answer": 0}
+{"question": "Which organisation is responsible for the development and maintenance of National Highways in India?", "options": ["National Highways Authority of India (NHAI)", "Indian Railways", "Airports Authority of India", "Ministry of Urban Development"], "answer": 0}
+{"question": "Which bank is regarded as India's first commercial bank, established during British rule?", "options": ["Bank of Hindustan", "State Bank of India", "Reserve Bank of India", "Imperial Bank of India"], "answer": 0}
+{"question": "GST in India is best described as a:", "options": ["Destination-based, multi-stage, value-added tax", "Origin-based single-stage tax", "Direct tax on income", "Wealth tax"], "answer": 0}
+{"question": "Which Delhi Sultanate ruler introduced strict market and price control policies?", "options": ["Alauddin Khalji", "Muhammad bin Tughlaq", "Balban", "Iltutmish"], "answer": 0}
+{"question": "The 74th Constitutional Amendment Act relates to:", "options": ["Urban Local Bodies (Municipalities)", "Rural Local Bodies (Panchayats)", "Judicial reforms", "Election Commission"], "answer": 0}
+{"question": "The headquarters of the Asian Development Bank is located in:", "options": ["Manila", "Beijing", "Tokyo", "Singapore"], "answer": 0}
+{"question": "Tsunamis are most commonly triggered by:", "options": ["Undersea earthquakes", "Heavy rainfall", "Wind storms", "Volcanic ash in the atmosphere"], "answer": 0}
+{"question": "GDP stands for:", "options": ["Gross Domestic Product", "Gross Development Plan", "General Domestic Production", "Global Development Product"], "answer": 0}
+{"question": "Which of the following is a planetary wind?", "options": ["Trade Winds", "Land Breeze", "Sea Breeze", "Loo"], "answer": 0}
+{"question": "Who has the power to constitute a Joint Parliamentary Committee?", "options": ["Parliament", "President", "Prime Minister", "Speaker"], "answer": 0}
+{"question": "Which organisms are called decomposers?", "options": ["Fungi and bacteria", "Green plants", "Herbivores", "Carnivores"], "answer": 0}
+{"question": "The Gender Development Index (GDI) measures?", "options": ["Gender gap in HDI achievements", "Only income levels", "Only literacy rates", "Population growth"], "answer": 0}
+{"question": "Who was a famous ruler of the Kushana dynasty?", "options": ["Kanishka", "Chandragupta", "Harsha", "Ashoka"], "answer": 0}
+{"question": "Who was the last ruler of the Lodhi Dynasty, defeated at the First Battle of Panipat?", "options": ["Ibrahim Lodi", "Sikandar Lodi", "Bahlul Lodi", "Daulat Khan Lodi"], "answer": 0}
+{"question": "The first railway line in India ran between which two cities?", "options": ["Mumbai and Thane", "Delhi and Agra", "Kolkata and Howrah", "Chennai and Bangalore"], "answer": 0}
+{"question": "Which of the following is a renewable energy source?", "options": ["Solar", "Coal", "Natural Gas", "Petroleum"], "answer": 0}
+{"question": "Society under the Delhi Sultanate was largely?", "options": ["Feudal and hierarchical", "Casteless", "Matriarchal", "Purely tribal"], "answer": 0}
+{"question": "The Human Development Index (HDI) was developed by which organisation?", "options": ["UNDP", "WHO", "World Bank", "IMF"], "answer": 0}
+{"question": "The Indus River originates in?", "options": ["Tibet", "Nepal", "Uttarakhand", "Kashmir"], "answer": 0}
+{"question": "Karst landforms are primarily formed due to?", "options": ["Solution of limestone", "Deposition of sand", "Glacial erosion", "Wind erosion"], "answer": 0}
+{"question": "Which of the following meant 'war' in the Vedic times?", "options": ["Akshvyapa", "Kulhina", "Gavisthi", "Ashwamedha"], "answer": 2}
+{"question": "The Panchayati Raj System is a ___-tier system?", "options": ["Three", "Two", "Four", "Five"], "answer": 0}
+{"question": "The Indian Independence Act 1947 created how many dominions?", "options": ["Two", "One", "Three", "Four"], "answer": 0}
+{"question": "A Chief Minister is appointed by the?", "options": ["Governor", "President", "Prime Minister", "Speaker"], "answer": 0}
+{"question": "The Reserve Bank of India (RBI) was established in?", "options": ["1935", "1947", "1950", "1969"], "answer": 0}
+{"question": "Which of the following is an example of a Regional Trade Agreement?", "options": ["SAFTA", "WTO", "UN", "IMF"], "answer": 0}
+{"question": "Buddhism spread to Sri Lanka mainly through the efforts of?", "options": ["Mahendra", "Ashoka himself", "Kanishka", "Fa-Hien"], "answer": 0}
+{"question": "The Food Corporation of India (FCI) was established in?", "options": ["1965", "1950", "1970", "1991"], "answer": 0}
+{"question": "Which is the largest freshwater lake in India?", "options": ["Wular Lake", "Chilika Lake", "Dal Lake", "Sambhar Lake"], "answer": 0}
+{"question": "Which ministry oversees renewable energy in India?", "options": ["Ministry of New and Renewable Energy", "Ministry of Environment", "Ministry of Power", "Ministry of Coal"], "answer": 0}
+{"question": "The rise of regional kingdoms in India followed the decline of which empire?", "options": ["Gupta Empire", "Maurya Empire", "Mughal Empire", "Chola Empire"], "answer": 0}
+{"question": "The Anglo-French rivalry in India was mainly fought over control of?", "options": ["The Carnatic region", "Bengal", "Punjab", "The Deccan"], "answer": 0}
+{"question": "Constitutional safeguards for minorities are primarily included under?", "options": ["Fundamental Rights", "Directive Principles only", "Preamble only", "None of these"], "answer": 0}
