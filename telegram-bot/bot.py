@@ -10,7 +10,7 @@ import schedule
 # CONFIG
 # =====================================================
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+os.getenv("BOT_TOKEN")
 
 CHANNELS = [
     "@upsclog",
