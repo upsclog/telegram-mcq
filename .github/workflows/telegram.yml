@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "55 6 * * *"
+    # Every day at 12:25 PM IST
+    - cron: "5 7 * * *"
 
 jobs:
   post-mcqs:
@@ -24,14 +25,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Check BOT_TOKEN
+      - name: Run Telegram Bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
         run: |
-          if [ -z "$BOT_TOKEN" ]; then
-            echo "BOT_TOKEN is NOT set"
-            exit 1
-          else
-            echo "BOT_TOKEN is set"
-            echo "Length: ${#BOT_TOKEN}"
-          fi
+          python telegram_poll_rotator.py
